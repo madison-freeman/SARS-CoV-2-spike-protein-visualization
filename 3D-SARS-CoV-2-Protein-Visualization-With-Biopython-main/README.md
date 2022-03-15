@@ -44,7 +44,7 @@ We must understand how these molecules fold, how they assemble into complexes, h
 
 ## Modeling <a name="modeling"></a>
 
-<img src = '../main/Data & Images/1.png'>
+<https://github.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/blob/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/1.png>
 
 <img src = '../main/Data & Images/2.png'>
 
