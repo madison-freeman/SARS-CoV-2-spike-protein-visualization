@@ -9,7 +9,7 @@
 	3. [Installation](#installation)
 3. [Project Motivation](#project-motivation)
 4. [Modeling](#modeling)
-5. [Results](#results)
+5. [Model Metrics](#model-metrics)
 6. [Author](#author)
 7. [Licensing](#licensing)
 
@@ -60,7 +60,7 @@ This 3D representation is colored based on the different chains of proteins pres
 
 ![image6](https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/6.png)
 
-## Results <a name="results"></a>
+## Model Metrics <a name="model-metrics"></a>
 
 * Sequence length: 29,903 base pairs
 * GC content: 37.97%
