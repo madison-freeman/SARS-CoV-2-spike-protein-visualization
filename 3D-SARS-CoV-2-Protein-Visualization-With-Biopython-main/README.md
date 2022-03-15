@@ -44,15 +44,15 @@ We must understand how these molecules fold, how they assemble into complexes, h
 
 ## Modeling <a name="modeling"></a>
 
-<https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/1.png>
+![image1](https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/1.png)
 
-<https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/2.png>
+![image2](https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/2.png)
 
-<https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/3.png>
+![image3](https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/3.png)
 
-<https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/5.png>
+![image5](https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/5.png)
 
-<https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/6.png>
+![image6](https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/6.png)
 
 ## Results <a name="results"></a>
 
