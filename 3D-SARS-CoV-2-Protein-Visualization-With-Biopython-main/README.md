@@ -46,9 +46,15 @@ We must understand how these molecules fold, how they assemble into complexes, h
 
 ![image1](https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/1.png)
 
+The above visualization depicts the SARS CoV-19 protein 6YYT. This representation is what is called "cartoon format" or "ribbon diagram" and often used as a model for publication purposes. Here, the two helical stands in blue form the DNA strands of the protein. 
+
 ![image2](https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/2.png)
 
+This is the true representation of how the SARS-CoV-19 protein would look like in a biological system. In order for researchers to study complex molecules, the cartoon format of the protein has been converted into what is known as a "surface format" or "surface diagram". The alpha-helical protein can be described as having many long-range contacts.
+
 ![image3](https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/3.png)
+
+This 3D representation is colored based on the different chains of proteins present in the protein structure. The shading and color adds dimensionality to the diagram. Generally, the features at the front are the highest in contrast and those towards the back are the lowest.
 
 ![image5](https://raw.githubusercontent.com/madison-freeman/SARS-CoV-2-spike-protein-visualization/master/3D-SARS-CoV-2-Protein-Visualization-With-Biopython-main/Data%20%26%20Images/5.png)
 
